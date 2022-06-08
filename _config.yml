@@ -2,7 +2,7 @@ title:              HEDA
 email:              your-email@example.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
-baseurl:            "/data-heda"
+baseurl:            "/"
 url:                "https://data-heda.github.io"
 
 # Social Profiles
