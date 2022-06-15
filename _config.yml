@@ -6,10 +6,10 @@ baseurl:            "/"
 url:                "https://data-heda.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:
+# twitter_username:   SBootstrap
+github_username:    data-heda
+facebook_username:  HEDA-111134104962930
+instagram_username: official.data.heda
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
